@@ -1,0 +1,5 @@
+C:\Users\MZX\RiderProjects\Evaluaciones\Evaluaciones\bin\Debug\Evaluaciones.exe
+C:\Users\MZX\RiderProjects\Evaluaciones\Evaluaciones\bin\Debug\Evaluaciones.pdb
+C:\Users\MZX\RiderProjects\Evaluaciones\Evaluaciones\obj\Debug\Evaluaciones.csprojAssemblyReference.cache
+C:\Users\MZX\RiderProjects\Evaluaciones\Evaluaciones\obj\Debug\Evaluaciones.exe
+C:\Users\MZX\RiderProjects\Evaluaciones\Evaluaciones\obj\Debug\Evaluaciones.pdb
