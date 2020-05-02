@@ -15,7 +15,7 @@ namespace Evaluaciones
         
         public override string ToString()
         {
-            return "TAREA \nPorcentaje: " + porcentaje + "\nNombre: " + nombre + "\nFecha de Entrega: " + fechaEntrega +"\n";
+            return "TAREA \nPorcentaje: " + porcentaje + "\nNombre: " + nombre + "\nFecha de Entrega: " + fechaEntrega.ToString("dd/MM/yyyy") +"\n";
         }
         
     }

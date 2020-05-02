@@ -6,7 +6,7 @@ namespace Evaluaciones
     {
         protected int porcentaje;
         protected string nombre;
-
+        
         public Evaluacion(int porcentaje, string nombre)
         {
             this.porcentaje = porcentaje;
