@@ -1,0 +1,9 @@
+C:\Users\MZX\RiderProjects\UI\UI\bin\Debug\UI.exe.config
+C:\Users\MZX\RiderProjects\UI\UI\bin\Debug\UI.exe
+C:\Users\MZX\RiderProjects\UI\UI\bin\Debug\UI.pdb
+C:\Users\MZX\RiderProjects\UI\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\MZX\RiderProjects\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\MZX\RiderProjects\UI\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\MZX\RiderProjects\UI\UI\obj\Debug\UI.exe
+C:\Users\MZX\RiderProjects\UI\UI\obj\Debug\UI.pdb
+C:\Users\MZX\RiderProjects\UI\UI\obj\Debug\UI.Form1.resources
