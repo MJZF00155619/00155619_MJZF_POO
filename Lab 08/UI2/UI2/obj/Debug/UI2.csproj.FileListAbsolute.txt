@@ -1,0 +1,11 @@
+C:\Users\MZX\RiderProjects\UI2\UI2\bin\Debug\UI2.exe.config
+C:\Users\MZX\RiderProjects\UI2\UI2\bin\Debug\UI2.pdb
+C:\Users\MZX\RiderProjects\UI2\UI2\obj\Debug\UI2.csprojAssemblyReference.cache
+C:\Users\MZX\RiderProjects\UI2\UI2\obj\Debug\UI2.Properties.Resources.resources
+C:\Users\MZX\RiderProjects\UI2\UI2\obj\Debug\UI2.csproj.GenerateResource.cache
+C:\Users\MZX\RiderProjects\UI2\UI2\obj\Debug\UI2.exe
+C:\Users\MZX\RiderProjects\UI2\UI2\obj\Debug\UI2.pdb
+C:\Users\MZX\RiderProjects\UI2\UI2\obj\Debug\UI2.Form1.resources
+C:\Users\MZX\RiderProjects\UI2\UI2\obj\Debug\UI2.Login.resources
+C:\Users\MZX\RiderProjects\UI2\UI2\obj\Debug\UI2.Register.resources
+C:\Users\MZX\RiderProjects\UI2\UI2\obj\Debug\UI2.csproj.CopyComplete
