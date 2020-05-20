@@ -1,0 +1,8 @@
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD\bin\Debug\ConexionBD.exe.config
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD\bin\Debug\ConexionBD.exe
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD\bin\Debug\ConexionBD.pdb
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csprojAssemblyReference.cache
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD\obj\Debug\ConexionBD.Properties.Resources.resources
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csproj.GenerateResource.cache
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD\obj\Debug\ConexionBD.exe
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb

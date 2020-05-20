@@ -10,6 +10,7 @@
         <e p="ConexionBD.csproj" t="IncludeRecursive" />
         <e p="Form1.cs" t="Include" />
         <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
@@ -19,6 +20,8 @@
           <e p="Settings.Designer.cs" t="Include" />
           <e p="Settings.settings" t="Include" />
         </e>
+        <e p="RegisterStudent.cs" t="Include" />
+        <e p="RegisterStudent.Designer.cs" t="Include" />
       </e>
       <e p="ConexionBD.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
