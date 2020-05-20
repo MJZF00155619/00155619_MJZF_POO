@@ -8,3 +8,5 @@ C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD
 C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb
 C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD\obj\Debug\ConexionBD.Form1.resources
 C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD\obj\Debug\ConexionBD.RegisterStudent.resources
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD\obj\Debug\ConexionBD.AddSubject.resources
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD\ConexionBD\obj\Debug\ConexionBD.Inscription.resources
