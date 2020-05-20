@@ -58,6 +58,12 @@
         <Compile Include="Form1.Designer.cs">
             <DependentUpon>Form1.cs</DependentUpon>
         </Compile>
+        <Compile Include="Inscription.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="Inscription.Designer.cs">
+          <DependentUpon>Inscription.cs</DependentUpon>
+        </Compile>
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="RegisterStudent.cs">
