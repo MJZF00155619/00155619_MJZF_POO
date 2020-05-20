@@ -5,6 +5,8 @@
     <e p="C:\Users\MZX\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ConexionBD.1692543546.00" t="ExcludeRecursive" />
     <e p="C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\ConexionBD" t="IncludeFlat">
       <e p="ConexionBD" t="IncludeRecursive">
+        <e p="AddSubject.cs" t="Include" />
+        <e p="AddSubject.Designer.cs" t="Include" />
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="ConexionBD.csproj" t="IncludeRecursive" />
@@ -22,6 +24,7 @@
         </e>
         <e p="RegisterStudent.cs" t="Include" />
         <e p="RegisterStudent.Designer.cs" t="Include" />
+        <e p="RegisterStudent.resx" t="Include" />
       </e>
       <e p="ConexionBD.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
