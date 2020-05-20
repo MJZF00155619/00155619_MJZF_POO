@@ -7,6 +7,7 @@
       <e p="ConexionBD" t="IncludeRecursive">
         <e p="AddSubject.cs" t="Include" />
         <e p="AddSubject.Designer.cs" t="Include" />
+        <e p="AddSubject.resx" t="Include" />
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="ConexionBD.csproj" t="IncludeRecursive" />

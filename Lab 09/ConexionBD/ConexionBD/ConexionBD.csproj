@@ -66,6 +66,9 @@
         <Compile Include="RegisterStudent.Designer.cs">
           <DependentUpon>RegisterStudent.cs</DependentUpon>
         </Compile>
+        <EmbeddedResource Include="AddSubject.resx">
+          <DependentUpon>AddSubject.cs</DependentUpon>
+        </EmbeddedResource>
         <EmbeddedResource Include="Form1.resx">
           <DependentUpon>Form1.cs</DependentUpon>
         </EmbeddedResource>
