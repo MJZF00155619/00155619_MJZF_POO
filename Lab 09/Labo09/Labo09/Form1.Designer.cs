@@ -30,10 +30,10 @@
         private void InitializeComponent()
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.queryButton = new System.Windows.Forms.Button();
+            this.buttonInscription = new System.Windows.Forms.Button();
+            this.buttonAddSignature = new System.Windows.Forms.Button();
+            this.buttonRegister = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -49,10 +49,10 @@
                 new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel1.ColumnStyles.Add(
                 new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel1.Controls.Add(this.button4, 3, 0);
-            this.tableLayoutPanel1.Controls.Add(this.button3, 2, 0);
-            this.tableLayoutPanel1.Controls.Add(this.button2, 1, 0);
-            this.tableLayoutPanel1.Controls.Add(this.button1, 0, 0);
+            this.tableLayoutPanel1.Controls.Add(this.queryButton, 3, 0);
+            this.tableLayoutPanel1.Controls.Add(this.buttonInscription, 2, 0);
+            this.tableLayoutPanel1.Controls.Add(this.buttonAddSignature, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.buttonRegister, 0, 0);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -66,49 +66,53 @@
             this.tableLayoutPanel1.Size = new System.Drawing.Size(602, 387);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
-            // button1
+            // queryButton
             // 
-            this.button1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.Location = new System.Drawing.Point(3, 3);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(144, 52);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Estudiante";
-            this.button1.UseVisualStyleBackColor = true;
+            this.queryButton.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.queryButton.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.queryButton.Location = new System.Drawing.Point(453, 3);
+            this.queryButton.Name = "queryButton";
+            this.queryButton.Size = new System.Drawing.Size(146, 52);
+            this.queryButton.TabIndex = 3;
+            this.queryButton.Text = "Consultar";
+            this.queryButton.UseVisualStyleBackColor = true;
+            this.queryButton.Click += new System.EventHandler(this.queryButton_Click);
             // 
-            // button2
+            // buttonInscription
             // 
-            this.button2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.button2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button2.Location = new System.Drawing.Point(153, 3);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(144, 52);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "Materia";
-            this.button2.UseVisualStyleBackColor = true;
+            this.buttonInscription.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.buttonInscription.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.buttonInscription.Location = new System.Drawing.Point(303, 3);
+            this.buttonInscription.Name = "buttonInscription";
+            this.buttonInscription.Size = new System.Drawing.Size(144, 52);
+            this.buttonInscription.TabIndex = 2;
+            this.buttonInscription.Text = "Inscripcion";
+            this.buttonInscription.UseVisualStyleBackColor = true;
+            this.buttonInscription.Click += new System.EventHandler(this.buttonInscription_Click);
             // 
-            // button3
+            // buttonAddSignature
             // 
-            this.button3.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.button3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button3.Location = new System.Drawing.Point(303, 3);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(144, 52);
-            this.button3.TabIndex = 2;
-            this.button3.Text = "Inscripcion";
-            this.button3.UseVisualStyleBackColor = true;
+            this.buttonAddSignature.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.buttonAddSignature.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.buttonAddSignature.Location = new System.Drawing.Point(153, 3);
+            this.buttonAddSignature.Name = "buttonAddSignature";
+            this.buttonAddSignature.Size = new System.Drawing.Size(144, 52);
+            this.buttonAddSignature.TabIndex = 1;
+            this.buttonAddSignature.Text = "Materia";
+            this.buttonAddSignature.UseVisualStyleBackColor = true;
+            this.buttonAddSignature.Click += new System.EventHandler(this.buttonAddSignature_Click);
             // 
-            // button4
+            // buttonRegister
             // 
-            this.button4.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.button4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button4.Location = new System.Drawing.Point(453, 3);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(146, 52);
-            this.button4.TabIndex = 3;
-            this.button4.Text = "Consultar";
-            this.button4.UseVisualStyleBackColor = true;
+            this.buttonRegister.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.buttonRegister.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.buttonRegister.Location = new System.Drawing.Point(3, 3);
+            this.buttonRegister.Name = "buttonRegister";
+            this.buttonRegister.Size = new System.Drawing.Size(144, 52);
+            this.buttonRegister.TabIndex = 0;
+            this.buttonRegister.Text = "Estudiante";
+            this.buttonRegister.UseVisualStyleBackColor = true;
+            this.buttonRegister.Click += new System.EventHandler(this.buttonRegister_Click);
             // 
             // Form1
             // 
@@ -125,9 +129,9 @@
         #endregion
 
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button queryButton;
+        private System.Windows.Forms.Button buttonInscription;
+        private System.Windows.Forms.Button buttonAddSignature;
+        private System.Windows.Forms.Button buttonRegister;
     }
 }
