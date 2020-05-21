@@ -9,6 +9,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Form1.cs" t="Include" />
         <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
         <e p="Labo09.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
@@ -19,6 +20,8 @@
           <e p="Settings.Designer.cs" t="Include" />
           <e p="Settings.settings" t="Include" />
         </e>
+        <e p="RegisterStudent.cs" t="Include" />
+        <e p="RegisterStudent.Designer.cs" t="Include" />
       </e>
       <e p="Labo09.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
