@@ -22,6 +22,7 @@
         </e>
         <e p="RegisterStudent.cs" t="Include" />
         <e p="RegisterStudent.Designer.cs" t="Include" />
+        <e p="RegisterStudent.resx" t="Include" />
       </e>
       <e p="Labo09.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

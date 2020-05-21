@@ -6,7 +6,7 @@ namespace Labo09
     {
         public RegisterStudent()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
     }
 }
