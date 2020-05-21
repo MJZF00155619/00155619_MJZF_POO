@@ -1,5 +1,4 @@
 C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\bin\Debug\Labo09.exe.config
-C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\bin\Debug\Labo09.exe
 C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\bin\Debug\Labo09.pdb
 C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\obj\Debug\Labo09.csprojAssemblyReference.cache
 C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\obj\Debug\Labo09.Properties.Resources.resources
@@ -11,3 +10,4 @@ C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\obj\Deb
 C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\obj\Debug\Labo09.Inscription.resources
 C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\obj\Debug\Labo09.RegisterStudent.resources
 C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\obj\Debug\Labo09.ViewData.resources
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\obj\Debug\Labo09.csproj.CopyComplete

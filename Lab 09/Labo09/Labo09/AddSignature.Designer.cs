@@ -59,7 +59,7 @@ namespace Labo09
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.tableLayoutPanel1.RowStyles.Add(
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(450, 321);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(644, 464);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // label1
@@ -67,7 +67,7 @@ namespace Labo09
             this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(122, 106);
+            this.label1.Size = new System.Drawing.Size(178, 154);
             this.label1.TabIndex = 0;
             this.label1.Text = "Nombre";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -75,7 +75,7 @@ namespace Labo09
             // textBox1
             // 
             this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox1.Location = new System.Drawing.Point(150, 41);
+            this.textBox1.Location = new System.Drawing.Point(275, 65);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(277, 23);
             this.textBox1.TabIndex = 1;
@@ -85,9 +85,9 @@ namespace Labo09
             this.button1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.tableLayoutPanel1.SetColumnSpan(this.button1, 2);
             this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.Location = new System.Drawing.Point(3, 215);
+            this.button1.Location = new System.Drawing.Point(3, 311);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(444, 103);
+            this.button1.Size = new System.Drawing.Size(638, 150);
             this.button1.TabIndex = 2;
             this.button1.Text = "Añadir Materia";
             this.button1.UseVisualStyleBackColor = true;
@@ -98,7 +98,7 @@ namespace Labo09
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "AddSignature";
-            this.Size = new System.Drawing.Size(450, 321);
+            this.Size = new System.Drawing.Size(644, 464);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);

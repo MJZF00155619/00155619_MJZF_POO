@@ -62,7 +62,7 @@ namespace Labo09
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15F));
             this.tableLayoutPanel1.RowStyles.Add(
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 85F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(392, 264);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(673, 464);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // label1
@@ -70,7 +70,7 @@ namespace Labo09
             this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(72, 39);
+            this.label1.Size = new System.Drawing.Size(128, 69);
             this.label1.TabIndex = 0;
             this.label1.Text = "Carnet";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -78,7 +78,7 @@ namespace Labo09
             // textBox1
             // 
             this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox1.Location = new System.Drawing.Point(84, 8);
+            this.textBox1.Location = new System.Drawing.Point(224, 23);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(223, 23);
             this.textBox1.TabIndex = 1;
@@ -87,9 +87,9 @@ namespace Labo09
             // 
             this.button1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.Location = new System.Drawing.Point(316, 3);
+            this.button1.Location = new System.Drawing.Point(540, 3);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(73, 33);
+            this.button1.Size = new System.Drawing.Size(130, 63);
             this.button1.TabIndex = 2;
             this.button1.Text = "Consultar";
             this.button1.UseVisualStyleBackColor = true;
@@ -100,9 +100,9 @@ namespace Labo09
                 System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.tableLayoutPanel1.SetColumnSpan(this.dataGridView1, 3);
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dataGridView1.Location = new System.Drawing.Point(3, 42);
+            this.dataGridView1.Location = new System.Drawing.Point(3, 72);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(386, 219);
+            this.dataGridView1.Size = new System.Drawing.Size(667, 389);
             this.dataGridView1.TabIndex = 3;
             // 
             // ViewData
@@ -111,7 +111,7 @@ namespace Labo09
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "ViewData";
-            this.Size = new System.Drawing.Size(392, 264);
+            this.Size = new System.Drawing.Size(673, 464);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize) (this.dataGridView1)).EndInit();
