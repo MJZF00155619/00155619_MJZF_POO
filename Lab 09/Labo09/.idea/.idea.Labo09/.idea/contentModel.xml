@@ -31,6 +31,7 @@
         <e p="RegisterStudent.resx" t="Include" />
         <e p="ViewData.cs" t="Include" />
         <e p="ViewData.Designer.cs" t="Include" />
+        <e p="ViewData.resx" t="Include" />
       </e>
       <e p="Labo09.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

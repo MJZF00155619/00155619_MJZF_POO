@@ -99,6 +99,9 @@
         <EmbeddedResource Include="RegisterStudent.resx">
           <DependentUpon>RegisterStudent.cs</DependentUpon>
         </EmbeddedResource>
+        <EmbeddedResource Include="ViewData.resx">
+          <DependentUpon>ViewData.cs</DependentUpon>
+        </EmbeddedResource>
         <None Include="Properties\Settings.settings">
             <Generator>SettingsSingleFileGenerator</Generator>
             <LastGenOutput>Settings.Designer.cs</LastGenOutput>
