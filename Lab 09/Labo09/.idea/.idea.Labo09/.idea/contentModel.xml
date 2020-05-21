@@ -7,11 +7,14 @@
       <e p="Labo09" t="IncludeRecursive">
         <e p="AddSignature.cs" t="Include" />
         <e p="AddSignature.Designer.cs" t="Include" />
+        <e p="AddSignature.resx" t="Include" />
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Form1.cs" t="Include" />
         <e p="Form1.Designer.cs" t="Include" />
         <e p="Form1.resx" t="Include" />
+        <e p="Inscription.cs" t="Include" />
+        <e p="Inscription.Designer.cs" t="Include" />
         <e p="Labo09.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
