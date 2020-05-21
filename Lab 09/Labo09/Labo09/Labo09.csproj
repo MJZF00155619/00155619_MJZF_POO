@@ -72,11 +72,20 @@
         <Compile Include="RegisterStudent.Designer.cs">
           <DependentUpon>RegisterStudent.cs</DependentUpon>
         </Compile>
+        <Compile Include="ViewData.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="ViewData.Designer.cs">
+          <DependentUpon>ViewData.cs</DependentUpon>
+        </Compile>
         <EmbeddedResource Include="AddSignature.resx">
           <DependentUpon>AddSignature.cs</DependentUpon>
         </EmbeddedResource>
         <EmbeddedResource Include="Form1.resx">
           <DependentUpon>Form1.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Inscription.resx">
+          <DependentUpon>Inscription.cs</DependentUpon>
         </EmbeddedResource>
         <EmbeddedResource Include="Properties\Resources.resx">
             <Generator>ResXFileCodeGenerator</Generator>

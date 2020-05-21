@@ -15,6 +15,7 @@
         <e p="Form1.resx" t="Include" />
         <e p="Inscription.cs" t="Include" />
         <e p="Inscription.Designer.cs" t="Include" />
+        <e p="Inscription.resx" t="Include" />
         <e p="Labo09.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
@@ -28,6 +29,8 @@
         <e p="RegisterStudent.cs" t="Include" />
         <e p="RegisterStudent.Designer.cs" t="Include" />
         <e p="RegisterStudent.resx" t="Include" />
+        <e p="ViewData.cs" t="Include" />
+        <e p="ViewData.Designer.cs" t="Include" />
       </e>
       <e p="Labo09.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
