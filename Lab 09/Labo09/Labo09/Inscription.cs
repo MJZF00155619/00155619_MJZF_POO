@@ -38,9 +38,14 @@ namespace Labo09
                 {
                     string query = $"SELECT idMateria FROM materia WHERE nombre = '{comboBox1.SelectedItem.ToString()}'";
                     var dt = ConnectionDB.ExecuteQuery(query);
-                    var idMateria = Convert.ToInt32(dt.Rows[0]);
+                    var dr = dt.Rows[0];
+                    var idMateria = Convert.ToInt32(dr[0].ToString());
                     string nonQuery = $"INSERT INTO INSCRIPCION(idMateria, carnet) VALUES("+
-                                    $"'{idMateria}',)";
+                                    $"'{idMateria}',"+
+                                    $"'{textBox1.Text}')";
+                    ConnectionDB.ExecuteNonQuery(nonQuery);
+
+                    MessageBox.Show("Se ha inscrito la materia");
                 }
                 catch (Exception ex)
                 {
