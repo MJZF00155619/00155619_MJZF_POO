@@ -23,10 +23,10 @@ namespace Labo09
             {
                 try
                 {
-                    ConnectionDB.ExecuteNonQuery($"INSERT INTO ESTUDIANTE VAUES("+
-                                                 $"'{textBox3.Text}',"+
-                                                 $"'{textBox1.Text}',"+
-                                                 $"'{textBox2.Text}',"+
+                    ConnectionDB.ExecuteNonQuery($"INSERT INTO ESTUDIANTE VALUES(" +
+                                                 $"'{textBox3.Text}'," +
+                                                 $"'{textBox1.Text}'," +
+                                                 $"'{textBox2.Text}'," +
                                                  $"{textBox4.Text})");
                     MessageBox.Show("Se ha registrado el estudiante");
                 }
@@ -34,6 +34,7 @@ namespace Labo09
                 {
                     MessageBox.Show("Ha ocurrido un error");
                 }
+
             }
         }
     }

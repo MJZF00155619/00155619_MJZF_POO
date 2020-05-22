@@ -63,15 +63,15 @@ namespace Labo09
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.tableLayoutPanel1.RowStyles.Add(
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(677, 478);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(610, 430);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // label2
             // 
             this.label2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label2.Location = new System.Drawing.Point(3, 159);
+            this.label2.Location = new System.Drawing.Point(3, 143);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(197, 159);
+            this.label2.Size = new System.Drawing.Size(177, 143);
             this.label2.TabIndex = 4;
             this.label2.Text = "Materia";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -81,7 +81,7 @@ namespace Labo09
             this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(197, 159);
+            this.label1.Size = new System.Drawing.Size(177, 143);
             this.label1.TabIndex = 0;
             this.label1.Text = "Carnet";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -89,7 +89,7 @@ namespace Labo09
             // textBox1
             // 
             this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox1.Location = new System.Drawing.Point(309, 68);
+            this.textBox1.Location = new System.Drawing.Point(265, 60);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(262, 23);
             this.textBox1.TabIndex = 1;
@@ -99,9 +99,9 @@ namespace Labo09
             this.button1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.tableLayoutPanel1.SetColumnSpan(this.button1, 2);
             this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.Location = new System.Drawing.Point(3, 321);
+            this.button1.Location = new System.Drawing.Point(3, 289);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(671, 154);
+            this.button1.Size = new System.Drawing.Size(604, 138);
             this.button1.TabIndex = 2;
             this.button1.Text = "Inscribir";
             this.button1.UseVisualStyleBackColor = true;
@@ -111,7 +111,7 @@ namespace Labo09
             // 
             this.comboBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(308, 227);
+            this.comboBox1.Location = new System.Drawing.Point(264, 203);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(264, 23);
             this.comboBox1.TabIndex = 5;
@@ -122,7 +122,7 @@ namespace Labo09
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Inscription";
-            this.Size = new System.Drawing.Size(677, 478);
+            this.Size = new System.Drawing.Size(610, 430);
             this.Load += new System.EventHandler(this.Inscription_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();

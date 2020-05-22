@@ -11,3 +11,6 @@ C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\obj\Deb
 C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\obj\Debug\Labo09.RegisterStudent.resources
 C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\obj\Debug\Labo09.ViewData.resources
 C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\obj\Debug\Labo09.csproj.CopyComplete
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\bin\Debug\Npgsql.dll
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\bin\Debug\Npgsql.pdb
+C:\Users\MZX\Desktop\repositorios\00155619_MJZF_POO\Lab 09\Labo09\Labo09\bin\Debug\Npgsql.xml

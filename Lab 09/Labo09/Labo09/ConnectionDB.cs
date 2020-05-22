@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Data;
+using System.Windows.Forms;
 using Npgsql;
 
 namespace Labo09
@@ -12,8 +13,8 @@ namespace Labo09
             password = "uca";
 
         private static string sConnection =
-            $"Server={host}; Port = 5432; User Id = {userId};Password={password};Database={database};";
-        //$"sslmode=Require;Trust Server Certificate=true";
+            $"Server={host}; Port = 5432; User Id = {userId};Password={password};Database={database}";
+       
 
         public static DataTable ExecuteQuery(string query)
         {
@@ -22,7 +23,7 @@ namespace Labo09
             
             connection.Open();
             
-            NpgsqlDataAdapter da = new NpgsqlDataAdapter(query,connection);
+            NpgsqlDataAdapter da = new NpgsqlDataAdapter(query, connection);
             da.Fill(ds);
             
             connection.Close();
