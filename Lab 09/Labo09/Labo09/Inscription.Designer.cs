@@ -105,6 +105,7 @@ namespace Labo09
             this.button1.TabIndex = 2;
             this.button1.Text = "Inscribir";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // comboBox1
             // 
@@ -122,6 +123,7 @@ namespace Labo09
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Inscription";
             this.Size = new System.Drawing.Size(677, 478);
+            this.Load += new System.EventHandler(this.Inscription_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);
