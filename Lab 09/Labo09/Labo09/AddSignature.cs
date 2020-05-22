@@ -20,7 +20,7 @@ namespace Labo09
             {
                 try
                 {
-                    ConnectionDB.ExecuteNonQuery($"INSERT INTO MATERIA(nombre) VAUES('{textBox1.Text}')");
+                    ConnectionDB.ExecuteNonQuery($"INSERT INTO MATERIA(nombre) VALUES('{textBox1.Text}')");
                         
                     MessageBox.Show("Se ha registrado la materia");
                 }

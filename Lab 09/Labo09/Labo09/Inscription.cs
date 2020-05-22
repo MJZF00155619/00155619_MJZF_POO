@@ -14,7 +14,7 @@ namespace Labo09
 
         private void Inscription_Load(object sender, EventArgs e)
         {
-            var assignatures = ConnectionDB.ExecuteQuery("SELECT nombre From materia");
+            var assignatures = ConnectionDB.ExecuteQuery("SELECT nombre FROM materia");
             var assignaturesCombo = new List<string>();
 
             foreach (DataRow dr in assignatures.Rows)
