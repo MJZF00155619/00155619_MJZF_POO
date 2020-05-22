@@ -52,6 +52,12 @@
         <Compile Include="AddSignature.Designer.cs">
           <DependentUpon>AddSignature.cs</DependentUpon>
         </Compile>
+        <Compile Include="AddSubject.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="AddSubject.Designer.cs">
+          <DependentUpon>AddSubject.cs</DependentUpon>
+        </Compile>
         <Compile Include="Form1.cs">
             <SubType>Form</SubType>
         </Compile>

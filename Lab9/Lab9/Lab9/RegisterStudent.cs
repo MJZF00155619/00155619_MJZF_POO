@@ -1,4 +1,5 @@
-﻿using System.Windows.Forms;
+﻿using System;
+using System.Windows.Forms;
 
 namespace Lab9
 {
@@ -8,5 +9,7 @@ namespace Lab9
         {
             InitializeComponent();
         }
+
+       
     }
 }
